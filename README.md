@@ -1,4 +1,6 @@
 # Applied-Statistics
+This project uses Plotting distribution, Visualization and Hypothesis Testing to validate statistical evidence and leverage information to make effective decisions Part 1 - Answering Industry Problems through Statistical inferences Part 2 - Analyze past tournament information to make informative investment decisions. Part 3 - Analyzing the status of various startups that participated in the Startup Battlefield which is the world’s pre-eminent startup competition.
+Skills and Tools : EDA, Data Visualization, Statistical Inference, Hypothesis Testing, Python
 # PART B:
 # DOMAIN: Sports
 # CONTEXT: Company X manages the men's top professional basketball division of the American league system. The dataset contains information on all the teams that have     participated in all the past tournaments. It has data about how many baskets each team scored, conceded, how many times they came within the first 2 positions, how       many tournaments they have qualified, their best position in the past, etc.
